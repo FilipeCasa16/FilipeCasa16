@@ -1,3 +1,4 @@
+
 # Sobre mim
 
 Olá! Eu sou o Filipe Casadei, estudante de Informática para internet do IFC.
@@ -6,7 +7,8 @@ Olá! Eu sou o Filipe Casadei, estudante de Informática para internet do IFC.
 
   <h2 align="center" style="color: #61afef;">Rest at the bench</h2>
 
-  <img src="https://media.tenor.com/images/158652932c029302e1bdf667ddc1a63b/tenor.gif" width="300px" alt="Hollow Knight Bench" />
+  <!-- Cole o link que o GitHub gerou dentro das aspas do src abaixo -->
+  <img width="510" height="640" alt="pixel-hollow" src="https://github.com/user-attachments/assets/0ebd2973-9aa1-46bd-b574-57bac5f70d3c" />
 
   <p align="center" style="color: #abb2bf;">
     <em>"Resting here restores your health and updates your map..."</em>
