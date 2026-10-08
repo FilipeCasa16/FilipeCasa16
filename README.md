@@ -11,7 +11,9 @@ Olá! Eu sou o Filipe Casadei, estudante de Informática para internet do IFC.
   <img width="410" height="540" alt="pixel-hollow" src="https://github.com/user-attachments/assets/0ebd2973-9aa1-46bd-b574-57bac5f70d3c" />
 
   <p align="center" style="color: #abb2bf;">
-    <em>"Descansar aqui restaura sua saúde e atualiza seu mapa..."</em>
+    <em>"Até mesmo os maiores mapas começam no escuro.</em>
+    <br>
+    <em>descanse para recarregar as energias, planejar a próxima linha e continuar explorando o desconhecido."</em>
   </p>
 
 </div>
