@@ -5,13 +5,13 @@ Olá! Eu sou o Filipe Casadei, estudante de Informática para internet do IFC.
 
 <div align="center">
 
-  <h2 align="center" style="color: #61afef;">Rest at the bench</h2>
+  <h2 align="center" style="color: #61afef;">Descanse no Banco</h2>
 
   <!-- Cole o link que o GitHub gerou dentro das aspas do src abaixo -->
-  <img width="510" height="640" alt="pixel-hollow" src="https://github.com/user-attachments/assets/0ebd2973-9aa1-46bd-b574-57bac5f70d3c" />
+  <img width="410" height="540" alt="pixel-hollow" src="https://github.com/user-attachments/assets/0ebd2973-9aa1-46bd-b574-57bac5f70d3c" />
 
   <p align="center" style="color: #abb2bf;">
-    <em>"Resting here restores your health and updates your map..."</em>
+    <em>"Descansar aqui restaura sua saúde e atualiza seu mapa..."</em>
   </p>
 
 </div>
