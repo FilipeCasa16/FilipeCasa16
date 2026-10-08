@@ -2,6 +2,18 @@
 
 Olá! Eu sou o Filipe Casadei, estudante de Informática para internet do IFC.
 
+<div align="center">
+
+  <h2 align="center" style="color: #61afef;">Rest at the bench</h2>
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm9mb3E0YmVxeXFwdDRxcXZrbGdpNDFpMHJldDhkamdyc2pldjllZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L2Xg2v6fV8e8aB4m8I/giphy.gif" width="300px" alt="Hollow Knight Bench Pixel Art" />
+
+  <p align="center" style="color: #abb2bf;">
+    <em>"Resting here restores your health and updates your map..."</em>
+  </p>
+
+</div>
+
 ---
 
 # Minhas estatísticas
